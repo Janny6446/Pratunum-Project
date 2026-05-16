@@ -1,0 +1,21 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_C93C56BB_E29E_48C0_41DB_E4E32B2C896C.label = Clear to garden
+panorama_01D69A86_2B06_FD58_41C6_08B5B2AE6116.label = Idea Hotel
+panorama_C82BB8C3_EE92_3840_41E5_33A672B8A552.label = Original Area
+panorama_1FE86D41_2B0A_57D8_417E_FCBE57DC48D4.label = Ready to rent
+
+## Skin
+
+### Dropdown
+DropDown_01B917F5_2B1F_D2B8_41C5_FC61E2652272.prompt = Choose your view
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Pratunum Model
